@@ -1,0 +1,57 @@
+# Dependencies & Lockfiles (biggest token sinks)
+node_modules/
+vendor/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# Build Outputs & Caches
+dist/
+build/
+out/
+.next/
+.nuxt/
+.vite/
+.cache/
+.turbo/
+coverage/
+
+# Minified & Compiled Assets
+*.min.js
+*.min.css
+*.bundle.js
+*.chunk.js
+*.map
+
+# Images, Videos, Fonts & Binaries
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+*.svg
+*.mp4
+*.webm
+*.mp3
+*.pdf
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.zip
+
+# Git, Logs & Environment Files
+.git/
+.vscode/
+.idea/
+.DS_Store
+*.log
+.env*
+
+# Backend / Python Environments (if applicable)
+__pycache__/
+*.pyc
+.venv/
+venv/
