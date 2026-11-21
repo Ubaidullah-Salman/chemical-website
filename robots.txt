@@ -3,4 +3,4 @@ Allow: /
 Disallow: /*.bak$
 
 # Sitemaps
-Sitemap: https://www.sulmantraders.pk/sitemap.xml
+Sitemap: https://sulmantraders.pk/sitemap.xml
